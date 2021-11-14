@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConsole", "SampleConsole\SampleConsole.csproj", "{31FEDB07-142C-4A4F-B53C-5A10B4D1BEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rakuraku.Config.IniFile.Store", "Rakuraku.Config.IniFile.Store\Rakuraku.Config.IniFile.Store.csproj", "{9F961889-E123-493B-B2BB-9647EA8A543C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FEDB07-142C-4A4F-B53C-5A10B4D1BEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FEDB07-142C-4A4F-B53C-5A10B4D1BEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FEDB07-142C-4A4F-B53C-5A10B4D1BEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FEDB07-142C-4A4F-B53C-5A10B4D1BEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F961889-E123-493B-B2BB-9647EA8A543C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F961889-E123-493B-B2BB-9647EA8A543C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F961889-E123-493B-B2BB-9647EA8A543C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F961889-E123-493B-B2BB-9647EA8A543C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57C9028-36EB-4579-84EA-CDD8DD8CC28F}
+	EndGlobalSection
+EndGlobal
